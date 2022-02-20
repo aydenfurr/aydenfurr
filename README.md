@@ -5,4 +5,6 @@ Source Code\
 etc
 - Links\
 Official Website: http://and1558.epizy.com \
+2nd Official Website: and1558.uk.to \ 
+3rd Official Website: and1558.us.to \
 Youtube Channel: https://www.youtube.com/channel/UCDgNeaZiwbxCKQ10Fz1vBjw
