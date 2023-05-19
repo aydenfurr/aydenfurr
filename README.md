@@ -6,4 +6,4 @@ etc
 - Links:\
 Official Website: http://and1558.epizy.com \
 ??? Website: http://wland1558.epizy.com \
-Youtube Channel: <a href="https:\\youtube.com\@and1558.">Click Here</a>
+Youtube Channel: <a href="https:\\youtube.com\@and1558.">Click Here (Can't put dot as a url on github normally)</a>
